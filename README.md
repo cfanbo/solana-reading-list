@@ -14,6 +14,8 @@
 
 - [Turbine: Block Propagation on Solana](https://www.helius.dev/blog/turbine-block-propagation-on-solana)
 
+- [the-solana-whitepaper](https://projectwhitepaper.substack.com/p/the-solana-whitepaper)
+
 - [Proof of History (PoH)](https://medium.com/coinmonks/proof-of-history-poh-eb8b874b59ee)
 
 - [Cryptographic Tools 101 - Hash Functions and Merkle Trees Explained](https://www.helius.dev/blog/cryptographic-tools-101-hash-functions-and-merkle-trees-explained)
