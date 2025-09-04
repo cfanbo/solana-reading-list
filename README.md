@@ -24,4 +24,5 @@
 
 # Video
 
+- [Solana Developer Bootcamp 2024](https://www.youtube.com/watch?v=amAq-WHAFs8)
 - [Proof of History Explainer](https://www.youtube.com/watch?v=rywOYfGu4EA)
