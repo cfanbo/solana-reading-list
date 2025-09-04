@@ -4,7 +4,23 @@
 
 # Article
 
+- [Understanding Slots, Blocks, and Epochs on Solana](https://www.helius.dev/blog/solana-slots-blocks-and-epochs)
+
 - [Solana Executive Overview](https://www.helius.dev/blog/solana-executive-overview)
+
+- [Turbine: Block Propagation on Solana](https://www.helius.dev/blog/turbine-block-propagation-on-solana)
+
+- [Cryptographic Tools 101 - Hash Functions and Merkle Trees Explained](https://www.helius.dev/blog/cryptographic-tools-101-hash-functions-and-merkle-trees-explained)
+
+- [What are Solana Commitment Levels?](https://www.helius.dev/blog/solana-commitment-levels)
+
+- [Proof of History, Proof of Stake, Proof of Work - Explained](https://www.helius.dev/blog/proof-of-history-proof-of-stake-proof-of-work-explained)
+
+- [All You Need to Know About Compression on Solana](https://www.helius.dev/blog/all-you-need-to-know-about-compression-on-solana)
+
+- [Solana Geyser Plugins: Streaming Data at the Speed of Light](https://www.helius.dev/blog/solana-geyser-plugins-streaming-data-at-the-speed-of-light)
+
+- [What are Solana PDAs? Explanation & Examples (2025)](https://www.helius.dev/blog/solana-pda)
 
 
 - [Sig Engineering - Part 3 - Solana’s AccountsDB](https://blog.syndica.io/sig-engineering-part-3-solanas-accountsdb/)
@@ -20,6 +36,7 @@
 
 - [Syndica - Deep Dive: Solana Onchain Activity - June 2025](https://www.reddit.com/r/solana/comments/1m2h3sd/syndica_deep_dive_solana_onchain_activity_june/)
 
+- [Multiple Concurrent Leaders](https://x.com/aeyakovenko/status/1810222589991583922)
 - [AMMs in Solana](https://blog.blockmagnates.com/amms-in-solana-cc787bb73edd)
 - [mev-on-solana](https://www.umbraresearch.xyz/writings/mev-on-solana)
 
