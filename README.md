@@ -6,6 +6,8 @@
 
 - [Solana Documentation](https://solana.com/zh/docs)
 
+- [Solana’s account model](https://solana.com/docs/core/accounts)
+
 - [Understanding Slots, Blocks, and Epochs on Solana](https://www.helius.dev/blog/solana-slots-blocks-and-epochs)
 
 - [Solana Executive Overview](https://www.helius.dev/blog/solana-executive-overview)
@@ -40,15 +42,29 @@
 
 - [Multiple Concurrent Leaders](https://x.com/aeyakovenko/status/1810222589991583922)
 
-## Dex + mev
+## Dex + MEV
 
 
 - [AMMs in Solana](https://blog.blockmagnates.com/amms-in-solana-cc787bb73edd)
 - [mev-on-solana](https://www.umbraresearch.xyz/writings/mev-on-solana)
 
+## Development
 
+- [Developing Programs in Rust](https://solana.com/docs/programs/rust)
+- [The Solana Programming Model: An Introduction to Developing on Solana](https://www.helius.dev/blog/the-solana-programming-model-an-introduction-to-developing-on-solana)
+- [Anchor Docs](https://www.anchor-lang.com/docs)
+- [Optimizing Solana Programs](https://www.helius.dev/blog/optimizing-solana-programs)
+- [How to Build Solana Programs with Pinocchio](https://www.helius.dev/blog/pinocchio)
+
+## GitHub Repos
+
+- https://github.com/solana-developers/program-examples
+- https://github.com/solana-labs/solana-program-library/
+- https://github.com/anza-xyz/pinocchio
+- https://github.com/solana-program/token
 
 # Video
 
 - [Solana Developer Bootcamp 2024](https://www.youtube.com/watch?v=amAq-WHAFs8)
 - [Proof of History Explainer](https://www.youtube.com/watch?v=rywOYfGu4EA)
+-  [Tutorial: Optimizing CU in Programs on Solana](https://www.youtube.com/watch?v=7CbAK7Oq_o4)
