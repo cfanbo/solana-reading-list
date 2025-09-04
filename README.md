@@ -14,11 +14,14 @@
 
 - [Lifecycle of a Solana Transaction](https://www.umbraresearch.xyz/writings/lifecycle-of-a-solana-transaction)
 
+- [Solana Validator 101: Transaction Processing](https://www.jito.wtf/blog/solana-validator-101-transaction-processing/)
+
 - [Solana Internals, Part 2](https://blog.blockmagnates.com/solana-internals-part-2-e2a27ec9ae2e)
 
+- [Syndica - Deep Dive: Solana Onchain Activity - June 2025](https://www.reddit.com/r/solana/comments/1m2h3sd/syndica_deep_dive_solana_onchain_activity_june/)
 
-- [mev-on-solana](https://www.umbraresearch.xyz/writings/mev-on-solana)
 - [AMMs in Solana](https://blog.blockmagnates.com/amms-in-solana-cc787bb73edd)
+- [mev-on-solana](https://www.umbraresearch.xyz/writings/mev-on-solana)
 
 
 
