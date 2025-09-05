@@ -14,9 +14,11 @@
 
 - [Turbine: Block Propagation on Solana](https://www.helius.dev/blog/turbine-block-propagation-on-solana)
 
-- [solana-whitepaper](https://solana.com/solana-whitepaper.pdf)
+- **[solana-whitepaper](https://solana.com/solana-whitepaper.pdf)**
 
 - [Proof of History (PoH)](https://medium.com/coinmonks/proof-of-history-poh-eb8b874b59ee)
+
+- [Gulf Stream: Solana’s Mempool-less Transaction Forwarding Protocol](https://medium.com/solana-labs/gulf-stream-solanas-mempool-less-transaction-forwarding-protocol-d342e72186ad)
 
 - [Cryptographic Tools 101 - Hash Functions and Merkle Trees Explained](https://www.helius.dev/blog/cryptographic-tools-101-hash-functions-and-merkle-trees-explained)
 
@@ -59,6 +61,7 @@
 - [Developing Programs in Rust](https://solana.com/docs/programs/rust)
 - [The Solana Programming Model: An Introduction to Developing on Solana](https://www.helius.dev/blog/the-solana-programming-model-an-introduction-to-developing-on-solana)
 - [Anchor Docs](https://www.anchor-lang.com/docs)
+- [Surfpool: from Localnet to Mainnet](https://docs.surfpool.run/)
 - [Optimizing Solana Programs](https://www.helius.dev/blog/optimizing-solana-programs)
 - [How to Build Solana Programs with Pinocchio](https://www.helius.dev/blog/pinocchio)
 
