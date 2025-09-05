@@ -18,7 +18,13 @@
 
 - [Proof of History (PoH)](https://medium.com/coinmonks/proof-of-history-poh-eb8b874b59ee)
 
+- [Proof of History: A Clock for Blockchain](https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274)
+
 - [Gulf Stream: Solana’s Mempool-less Transaction Forwarding Protocol](https://medium.com/solana-labs/gulf-stream-solanas-mempool-less-transaction-forwarding-protocol-d342e72186ad)
+
+- [Sealevel — Parallel Processing Thousands of Smart Contracts](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192)
+
+- [Turbine — Solana’s Block Propagation Protocol Solves the Scalability Trilemma](https://medium.com/solana-labs/turbine-solanas-block-propagation-protocol-solves-the-scalability-trilemma-2ddba46a51db)
 
 - [Cryptographic Tools 101 - Hash Functions and Merkle Trees Explained](https://www.helius.dev/blog/cryptographic-tools-101-hash-functions-and-merkle-trees-explained)
 
