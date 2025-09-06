@@ -18,6 +18,8 @@
 
 - [Proof of History (PoH)](https://medium.com/coinmonks/proof-of-history-poh-eb8b874b59ee)
 
+- [Proof-of-History：Solana 区块链的创新时间证明机制](https://mp.weixin.qq.com/s/fx7wEJuQlcl_AEuNemhSmQ)
+
 - [Proof of History: A Clock for Blockchain](https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274)
 
 - [Gulf Stream: Solana’s Mempool-less Transaction Forwarding Protocol](https://medium.com/solana-labs/gulf-stream-solanas-mempool-less-transaction-forwarding-protocol-d342e72186ad)
