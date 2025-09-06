@@ -87,3 +87,4 @@
 - [Solana Developer Bootcamp 2024](https://www.youtube.com/watch?v=amAq-WHAFs8)
 - [Proof of History Explainer](https://www.youtube.com/watch?v=rywOYfGu4EA)
 -  [Tutorial: Optimizing CU in Programs on Solana](https://www.youtube.com/watch?v=7CbAK7Oq_o4)
+-  [Solana历史证明PoH高效共识机制技术详解](https://www.bilibili.com/video/BV15QQFYfEYK/)
