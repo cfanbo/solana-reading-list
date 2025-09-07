@@ -60,6 +60,9 @@
 
 - [Solana Program](https://www.solana-program.com/docs)
 
+- [Solana：重塑区块链生态的高速革命](https://mp.weixin.qq.com/s?__biz=MzU2NjMwMTkzMw==&mid=2247484946&idx=1&sn=f4902c96b7b6211a3ec06b360e6b9970&chksm=fcafc390cbd84a86572ae5c8761dc7fc992928169f0cb47f1f6f341c6204117b5540b4666ec0&cur_album_id=2668603995803926530&scene=189#wechat_redirect)
+
+
 ## Dex + MEV
 
 
