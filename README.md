@@ -53,6 +53,7 @@
 - [Solana’s 3rd Layer Explained : Block Building](https://medium.com/coinmonks/solanas-3rd-layer-explained-block-building-85b25ef0e9bb)
 - [Solana Internals, Part 2](https://blog.blockmagnates.com/solana-internals-part-2-e2a27ec9ae2e)
 - [Solana Virtual Machine specification](https://github.com/anza-xyz/agave/blob/master/svm/doc/spec.md)
+- [Agave Validator Documentation](https://docs.anza.xyz/)
 - [Syndica - Deep Dive: Solana Onchain Activity - June 2025](https://www.reddit.com/r/solana/comments/1m2h3sd/syndica_deep_dive_solana_onchain_activity_june/)
 - [Multiple Concurrent Leaders](https://x.com/aeyakovenko/status/1810222589991583922)
 - [Solana Program](https://www.solana-program.com/docs)
