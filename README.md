@@ -53,12 +53,13 @@
 - [Solana’s 3rd Layer Explained : Block Building](https://medium.com/coinmonks/solanas-3rd-layer-explained-block-building-85b25ef0e9bb)
 - [Solana Internals, Part 2](https://blog.blockmagnates.com/solana-internals-part-2-e2a27ec9ae2e)
 - **[Solana Virtual Machine specification](https://github.com/anza-xyz/agave/blob/master/svm/doc/spec.md)**
+- **https://www.anza.xyz/blog**
 - [Agave Validator Documentation](https://docs.anza.xyz/)
 - [Syndica - Deep Dive: Solana Onchain Activity - June 2025](https://www.reddit.com/r/solana/comments/1m2h3sd/syndica_deep_dive_solana_onchain_activity_june/)
 - [Multiple Concurrent Leaders](https://x.com/aeyakovenko/status/1810222589991583922)
 - [Solana Program](https://www.solana-program.com/docs)
 - [Solana：重塑区块链生态的高速革命](https://mp.weixin.qq.com/s?__biz=MzU2NjMwMTkzMw==&mid=2247484946&idx=1&sn=f4902c96b7b6211a3ec06b360e6b9970&chksm=fcafc390cbd84a86572ae5c8761dc7fc992928169f0cb47f1f6f341c6204117b5540b4666ec0&cur_album_id=2668603995803926530&scene=189#wechat_redirect)
-- [Alpenglow: A New Consensus for Solana](https://www.anza.xyz/blog/alpenglow-a-new-consensus-for-solana)
+- **[Alpenglow: A New Consensus for Solana](https://www.anza.xyz/blog/alpenglow-a-new-consensus-for-solana)**
 - [Alpenglow: Solana's Great Consensus Rewrite](https://www.helius.dev/blog/alpenglow)
 
 
