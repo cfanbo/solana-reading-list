@@ -62,6 +62,7 @@
 - **[Alpenglow: A New Consensus for Solana](https://www.anza.xyz/blog/alpenglow-a-new-consensus-for-solana)**
 - [Alpenglow: Solana's Great Consensus Rewrite](https://www.helius.dev/blog/alpenglow)
 - [Why Solana Transaction Costs and Compute Units Matter for Developers](https://www.anza.xyz/blog/why-solana-transaction-costs-and-compute-units-matter-for-developers)
+- [DoubleZero: A Faster Internet](https://www.helius.dev/blog/doublezero-a-faster-internet)
 
 
 ## Dex + MEV
