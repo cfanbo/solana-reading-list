@@ -61,6 +61,7 @@
 - [Solana：重塑区块链生态的高速革命](https://mp.weixin.qq.com/s?__biz=MzU2NjMwMTkzMw==&mid=2247484946&idx=1&sn=f4902c96b7b6211a3ec06b360e6b9970&chksm=fcafc390cbd84a86572ae5c8761dc7fc992928169f0cb47f1f6f341c6204117b5540b4666ec0&cur_album_id=2668603995803926530&scene=189#wechat_redirect)
 - **[Alpenglow: A New Consensus for Solana](https://www.anza.xyz/blog/alpenglow-a-new-consensus-for-solana)**
 - [Alpenglow: Solana's Great Consensus Rewrite](https://www.helius.dev/blog/alpenglow)
+- [Solana’s Alpenglow: A Faster Consensus with New Trade-Offs](https://blog.sei.io/research/solanas-alpenglow-a-faster-consensus-with-new-trade-offs/)
 - [Alpenglow-White-Paper](https://github.com/rogerANZA/Alpenglow-White-Paper)
 - [Why Solana Transaction Costs and Compute Units Matter for Developers](https://www.anza.xyz/blog/why-solana-transaction-costs-and-compute-units-matter-for-developers)
 - [DoubleZero: A Faster Internet](https://www.helius.dev/blog/doublezero-a-faster-internet)
