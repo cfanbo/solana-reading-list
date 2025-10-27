@@ -67,6 +67,7 @@
 - [DoubleZero: A Faster Internet](https://www.helius.dev/blog/doublezero-a-faster-internet)
 - [DoubleZero Protocol whitePaper](https://doublezero.xyz/whitepaper.pdf)
 
+- [x402: An open standard for internet-native payments](https://www.x402.org/)
 
 ## Dex + MEV
 
